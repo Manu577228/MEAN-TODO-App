@@ -20,9 +20,9 @@ To get started with this project, follow these simple steps:
 
 3. ng serve ( Frontend ) & node index.js ( Backend ) to run the application.
 
-3.Start Changing the Code according to your expectations.
+4.Start Changing the Code according to your expectations.
 
-4. Commit & Push the changes. 
+5. Commit & Push the changes. 
 
 
 ## How to Contribute
