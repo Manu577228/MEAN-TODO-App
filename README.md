@@ -1,4 +1,4 @@
-# Welcome to Todo App! [ MEAN Stack )
+# Welcome to Todo App! [ MEAN Stack ]
 
 Hey there! 👋 I'm Manu Bharadwaj. If you find this project useful or interesting, don't forget to give it a ⭐️!
 
