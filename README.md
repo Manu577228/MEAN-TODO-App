@@ -8,7 +8,7 @@ I'm Manu Bharadwaj, a passionate Software Engineer.
 
 ## Features
 
-- 📦 Mongo DB, Express.js, Angular 17.x & Node.js
+- 📦 Mongo DB, Express.js, Angular 17.x & Node.js.
 
 ## Getting Started
 
